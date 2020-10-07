@@ -8,7 +8,7 @@ fi
 
 
 # Make the directory if needed
-if [[ ! -d "~/.config/alacritty" ]]; then
+if [[ ! -d ~/.config/alacritty ]]; then
 	mkdir ~/.config/alacritty
 fi
 
