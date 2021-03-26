@@ -792,6 +792,9 @@ key_bindings:
 
   # Custom
   - { key: F11, action: ToggleFullscreen }
+  - { key: PageUp, action: ScrollHalfPageUp }
+  - { key: PageDown, action: ScrollHalfPageDown }
+  
 
 #debug:
   # Display the time it takes to redraw each frame.
