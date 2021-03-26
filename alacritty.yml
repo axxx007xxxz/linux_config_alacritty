@@ -180,7 +180,7 @@ colors:
   # Default colors
   primary:
     background: '0x000b1e'
-    foreground: '0x0abdc6'
+    foreground: '0xffffff'
 
     # Bright and dim foreground colors
     #
